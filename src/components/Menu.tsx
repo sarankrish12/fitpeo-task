@@ -11,7 +11,6 @@ import GoalIcon from "@mui/icons-material/EmojiEvents";
 import DishesIcon from "@mui/icons-material/Fastfood";
 import MenuIcon from "@mui/icons-material/MenuBook";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
-import { Badge } from "flowbite-react";
 
 const Menu: React.FC = () => {
   return (

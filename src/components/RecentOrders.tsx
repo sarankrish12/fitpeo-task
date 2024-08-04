@@ -11,7 +11,6 @@ import {
   Typography,
 } from "@mui/material";
 import { styled } from "@mui/system";
-import { Badge } from "flowbite-react";
 const RecentOrders: React.FC = () => {
   const Item = styled(Paper)(({ theme }) => ({
     padding: theme.spacing(2),

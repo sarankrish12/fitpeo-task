@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  font-family: "Montserrat" !important;
+}
+
+.fs-12 {
+  font-size: 12px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-17 {
+  font-size: 17px;
+}
+
+*::-webkit-scrollbar {
+  width: 2px;
+  background-color: #ededee;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #b9babd;
+  border-radius: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+*::-webkit-scrollbar-button {
+  display: none !important;
+}
